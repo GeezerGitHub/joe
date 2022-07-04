@@ -1,5 +1,7 @@
 print("hi sourc")
 
+function chester()
+
 local frame = 1
 
 if frame == 1 and Name == "ArabMoneh" then
@@ -198,4 +200,5 @@ if frame == 33 and Name == "ArabMoneh" then
 Window:SetBackground("10109316753")
 wait()
 frame = frame+1
+end
 end
